@@ -1,7 +1,7 @@
 # Tekstbaseret Regnemaskine
 
 ## Beskrivelse
-Dette projekt er en simpel tekstbaseret regnemaskine, der kan udføre grundlæggende aritmetiske operationer såsom addition, subtraktion, multiplikation og division.
+Dette projekt er en simpel, refaktoreret, tekstbaseret regnemaskine, der kan udføre grundlæggende aritmetiske operationer såsom addition, subtraktion, multiplikation og division.
 
 ## Funktioner
 - Addition (`+`)
